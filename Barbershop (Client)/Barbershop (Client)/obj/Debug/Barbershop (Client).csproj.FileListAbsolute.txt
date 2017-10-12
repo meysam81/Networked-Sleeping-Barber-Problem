@@ -1,0 +1,9 @@
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\bin\Debug\Barbershop (Client).exe.config
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\obj\Debug\Barbershop (Client).csprojResolveAssemblyReference.cache
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\obj\Debug\Barbershop__Client_.Properties.Resources.resources
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\obj\Debug\Barbershop (Client).csproj.GenerateResource.Cache
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\obj\Debug\Barbershop__Client_.FormBarbershop.resources
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\bin\Debug\Barbershop (Client).exe
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\bin\Debug\Barbershop (Client).pdb
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\obj\Debug\Barbershop (Client).exe
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Client)\Barbershop (Client)\obj\Debug\Barbershop (Client).pdb

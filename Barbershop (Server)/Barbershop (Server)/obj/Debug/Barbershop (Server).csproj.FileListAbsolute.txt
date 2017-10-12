@@ -1,0 +1,6 @@
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Server)\Barbershop (Server)\bin\Debug\Barbershop (Server).exe.config
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Server)\Barbershop (Server)\bin\Debug\Barbershop (Server).exe
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Server)\Barbershop (Server)\bin\Debug\Barbershop (Server).pdb
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Server)\Barbershop (Server)\obj\Debug\Barbershop (Server).exe
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Server)\Barbershop (Server)\obj\Debug\Barbershop (Server).pdb
+c:\users\meysam\documents\visual studio 2015\Projects\Barbershop (Server)\Barbershop (Server)\obj\Debug\Barbershop (Server).csprojResolveAssemblyReference.cache
